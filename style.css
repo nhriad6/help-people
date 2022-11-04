@@ -51,6 +51,7 @@ body {
 }
 .donate-head {
   text-align: center;
+  margin-top: 20px;
 }
 .donate-btn {
   align-items: center;
@@ -80,7 +81,7 @@ body {
   padding-right: 10px;
 }
 .half img {
-  width: 90%;
+  width: 100%;
 }
 .comments {
   text-align: center;
@@ -115,4 +116,7 @@ footer {
 }
 footer h2 {
   color: tomato;
+}
+.tmg{
+  border-radius: 10px;
 }
