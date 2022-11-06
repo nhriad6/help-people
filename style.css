@@ -51,7 +51,7 @@ body {
 }
 .donate-head {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 .donate-btn {
   align-items: center;
@@ -77,11 +77,13 @@ body {
 .half {
   margin-left: 20px;
   margin-right: 20px;
+  margin-top: 50px;
   padding-left: 10px;
   padding-right: 10px;
 }
 .half img {
   width: 100%;
+  border-radius: 10px;
 }
 .comments {
   text-align: center;
@@ -91,6 +93,7 @@ body {
   margin-left: 15px;
   margin-right: 15px;
   background: lightpink;
+  margin-top: 20px;
 }
 .input-btm {
   border: 1px solid grey;
@@ -105,8 +108,9 @@ body {
   background: lightyellow;
   margin-left: 20px;
   margin-right: 20px;
-  padding: 25px;
+  padding: 20px;
   border-radius: 10px;
+
 }
 footer {
   text-align: center;
@@ -116,7 +120,4 @@ footer {
 }
 footer h2 {
   color: tomato;
-}
-.tmg{
-  border-radius: 10px;
 }
